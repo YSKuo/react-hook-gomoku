@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-hook-gomoku/static/js/main.8619df17.chunk.js",
-    "main.js.map": "/react-hook-gomoku/static/js/main.8619df17.chunk.js.map",
-    "runtime-main.js": "/react-hook-gomoku/static/js/runtime-main.e2ebec5f.js",
-    "runtime-main.js.map": "/react-hook-gomoku/static/js/runtime-main.e2ebec5f.js.map",
-    "static/js/2.ee9f9b60.chunk.js": "/react-hook-gomoku/static/js/2.ee9f9b60.chunk.js",
-    "static/js/2.ee9f9b60.chunk.js.map": "/react-hook-gomoku/static/js/2.ee9f9b60.chunk.js.map",
-    "index.html": "/react-hook-gomoku/index.html",
-    "static/js/2.ee9f9b60.chunk.js.LICENSE.txt": "/react-hook-gomoku/static/js/2.ee9f9b60.chunk.js.LICENSE.txt"
+    "main.js": "/React-Hook-Gomoku/static/js/main.8619df17.chunk.js",
+    "main.js.map": "/React-Hook-Gomoku/static/js/main.8619df17.chunk.js.map",
+    "runtime-main.js": "/React-Hook-Gomoku/static/js/runtime-main.32a3433c.js",
+    "runtime-main.js.map": "/React-Hook-Gomoku/static/js/runtime-main.32a3433c.js.map",
+    "static/js/2.5a4956ad.chunk.js": "/React-Hook-Gomoku/static/js/2.5a4956ad.chunk.js",
+    "static/js/2.5a4956ad.chunk.js.map": "/React-Hook-Gomoku/static/js/2.5a4956ad.chunk.js.map",
+    "index.html": "/React-Hook-Gomoku/index.html",
+    "static/js/2.5a4956ad.chunk.js.LICENSE.txt": "/React-Hook-Gomoku/static/js/2.5a4956ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2ebec5f.js",
-    "static/js/2.ee9f9b60.chunk.js",
+    "static/js/runtime-main.32a3433c.js",
+    "static/js/2.5a4956ad.chunk.js",
     "static/js/main.8619df17.chunk.js"
   ]
 }
